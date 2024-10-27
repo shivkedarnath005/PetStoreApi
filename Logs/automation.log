@@ -1,0 +1,12 @@
+15:49:18.669 [main] INFO  com.petstore.testcases.UserTests - *********** Creating User ************
+15:49:21.244 [main] INFO  com.petstore.testcases.UserTests - *********** User is Created ************
+15:49:21.261 [main] INFO  com.petstore.testcases.UserTests - ******** Reading User info ********
+15:49:22.313 [main] INFO  com.petstore.testcases.UserTests - ********* Updating User *********
+15:49:23.338 [main] INFO  com.petstore.testcases.UserTests - ********* User is Updated *********
+15:49:24.379 [main] INFO  com.petstore.testcases.UserTests - ******** Deleting  User ********
+16:01:31.036 [main] INFO  com.petstore.testcases.UserTests - *********** Creating User ************
+16:01:34.104 [main] INFO  com.petstore.testcases.UserTests - *********** User is Created ************
+16:01:34.129 [main] INFO  com.petstore.testcases.UserTests - ******** Reading User info ********
+16:01:35.182 [main] INFO  com.petstore.testcases.UserTests - ********* Updating User *********
+16:01:36.202 [main] INFO  com.petstore.testcases.UserTests - ********* User is Updated *********
+16:01:37.248 [main] INFO  com.petstore.testcases.UserTests - ******** Deleting  User ********

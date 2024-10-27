@@ -1,0 +1,24 @@
+
+ (*) Project Description - Web Automation on 99BooksCart Website 
+            with Selenium TestNG  & Hybrid Data Driven Framework-
+ 
+  (*) Application Page Navigation Flow - Guest User Or Registered User
+   1) Index Page
+   2) Login Page --> Account Registration Page
+   3) Home Page
+   4) Shopping Cart Page
+   5) Shipping Address Page 
+   
+   
+   *) Page Navigation Flow -
+   1) Index Page
+   2) Login Page
+   3) Account Register Page
+   4) Home Page
+   5) Search Products Page
+   6) AddToCartPage
+   7) ShoppingCartPage
+   8) OrderCheckoutPage
+   9) Payment Page
+   10) Order Confirmation Page
+   
